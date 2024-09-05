@@ -3,4 +3,5 @@ twilio==7.14.1
 requests==2.28.2
 pydub==0.25.1
 torch==2.4.0
-whisper==1.0.0
+openai-whisper
+numpy<2
