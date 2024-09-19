@@ -3,6 +3,7 @@ from flask import Flask, request
 from twilio.twiml.messaging_response import MessagingResponse
 from twilio.rest import Client
 from utils.whatsapp import process_incoming_message
+
 from config import TWILIO_ACCOUNT_SID, TWILIO_AUTH_TOKEN, TWILIO_WHATSAPP_NUMBER
 app = Flask(__name__)
 
@@ -11,6 +12,8 @@ client = Client(TWILIO_ACCOUNT_SID, TWILIO_AUTH_TOKEN)
 
 
 @app.route('/webhook', methods=['POST'])
+
+
 def webhook():
     try:
         incoming_msg = request.values.get('Body', '').lower()
