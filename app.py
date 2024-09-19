@@ -3,6 +3,8 @@ from flask import Flask, request
 from twilio.twiml.messaging_response import MessagingResponse
 from twilio.rest import Client
 from utils.whatsapp import process_incoming_message
+from iallama import OllamaQuestion
+import time
 
 from config import TWILIO_ACCOUNT_SID, TWILIO_AUTH_TOKEN, TWILIO_WHATSAPP_NUMBER
 app = Flask(__name__)
@@ -24,7 +26,11 @@ def webhook():
 
         if media_url:
             text = process_incoming_message(media_url)
-            msg.body(text)
+            textIA = OllamaQuestion(text)
+            msg.body(textIA)
+
+                
+
         else:
             msg.body("Envie Apenas mensagens em voz.")
 
@@ -47,7 +53,14 @@ def send_message():
             body=message_body,
             to=f'whatsapp:{to_number}'
         )
-        return f"Mensagem enviada com sucesso! SID: {message.sid}"
+
+        messageAI = client.messages.create(
+            from_=TWILIO_WHATSAPP_NUMBER,  
+            body=OllamaQuestion(message_body),
+            to=f'whatsapp:{to_number}'
+        )
+        
+        return f"Mensagem enviada com sucesso! SID: {message.sid, messageAI}"
     except Exception as e:
         print(f"Error sending message: {e}")
         return "Erro ao enviar mensagem.", 500

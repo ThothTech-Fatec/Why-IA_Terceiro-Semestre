@@ -6,7 +6,7 @@ from config import TWILIO_ACCOUNT_SID, TWILIO_AUTH_TOKEN
 
 def download_audio(media_url):
     try:
-        response = requests.get(media_url, auth=HTTPBasicAuth(TWILIO_ACCOUNT_SID, TWILIO_AUTH_TOKEN))
+        response = requests.get(media_url)
         audio_path = 'audio_message.mp3'
         with open(audio_path, 'wb') as f:
             f.write(response.content)
