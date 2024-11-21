@@ -1,0 +1,285 @@
+[
+  {
+    "Q": "Ola.",
+    "A": "Ola! Como posso te ajudar?."
+  },
+  {
+    "Q": "Quero falar com um atendente",
+    "A": "Eu sou o atendente, fale comigo."
+  },
+  {
+    "Q": "Do que se trata a loja?",
+    "A": "A loja é referência em vendas de todos os tipos de eletrônicos"
+  },
+  {
+    "Q": "O S23 tem estoque?",
+    "A": "Possuímos 92 no Estoque."
+  },
+  {
+    "Q": "Quais formas de pagamento vocês aceitam?",
+    "A": "Aceitamos pagamentos via cartão de crédito, débito, Pix e boleto bancário."
+  },
+  {
+    "Q": "Qual o horário de funcionamento da loja?",
+    "A": "Nossa loja física funciona de segunda a sexta, das 9h às 18h, e aos sábados, das 9h às 14h."
+  },
+  {
+    "Q": "Vocês entregam para todo o Brasil?",
+    "A": "Sim, fazemos entregas para todo o território nacional."
+  },
+  {
+    "Q": "Como posso acompanhar meu pedido?",
+    "A": "Você pode acompanhar seu pedido pelo código de rastreamento que enviamos por e-mail após a confirmação da compra."
+  },
+  {
+    "Q": "Posso retirar meu pedido na loja?",
+    "A": "Sim, oferecemos a opção de retirada na loja sem custo adicional."
+  },
+  {
+    "Q": "Vocês oferecem garantia nos produtos?",
+    "A": "Sim, todos os nossos produtos possuem garantia de fábrica. O prazo depende do item adquirido."
+  },
+  {
+    "Q": "Tem desconto para pagamento à vista?",
+    "A": "Sim, oferecemos 10% de desconto para pagamentos à vista no Pix ou boleto."
+  },
+  {
+    "Q": "Vocês têm política de troca?",
+    "A": "Sim, você pode trocar qualquer produto em até 7 dias após a compra, desde que esteja nas mesmas condições de envio."
+  },
+  {
+    "Q": "Quanto tempo demora a entrega?",
+    "A": "O prazo de entrega varia conforme a sua localidade, mas geralmente é entre 5 a 10 dias úteis."
+  },
+  {
+    "Q": "Posso parcelar minha compra?",
+    "A": "Sim, parcelamos em até 12x sem juros no cartão de crédito."
+  },
+  {
+      "Q": "Qual é o preço do iPhone 15?",
+      "A": "O iPhone 15 está disponível por R$ 7.999."
+  },
+    {
+      "Q": "Vocês têm TVs 4K em estoque?",
+      "A": "Sim, temos 45 unidades de TVs 4K disponíveis no estoque."
+    },
+    {
+      "Q": "Quanto custa um notebook gamer?",
+      "A": "O notebook gamer está saindo por R$ 5.500 no momento."
+    },
+    {
+      "Q": "Quantos fones de ouvido Bluetooth vocês têm?",
+      "A": "Atualmente, temos 120 fones de ouvido Bluetooth em estoque."
+    },
+    {
+      "Q": "Tem tablets com tela de 10 polegadas?",
+      "A": "Sim, possuímos tablets com tela de 10 polegadas, temos 30 em estoque."
+    },
+    {
+      "Q": "O Galaxy Watch está disponível?",
+      "A": "Sim, temos 65 unidades do Galaxy Watch disponíveis."
+    },
+    {
+      "Q": "Qual é o preço de uma câmera DSLR?",
+      "A": "Uma câmera DSLR está saindo por R$ 3.200."
+    },
+    {
+      "Q": "Tem caixas de som portáteis?",
+      "A": "Sim, temos 50 caixas de som portáteis em estoque."
+    },
+    {
+      "Q": "Qual é o preço de um monitor ultrawide?",
+      "A": "O monitor ultrawide está custando R$ 1.800."
+    },
+    {
+      "Q": "Quantos consoles PS5 vocês têm?",
+      "A": "Atualmente, temos 10 consoles PS5 em estoque."
+    },
+      {
+        "Q": "Qual é o preço de um ar-condicionado inteligente?",
+        "A": "O ar-condicionado inteligente está disponível por R$ 2.400."
+      },
+      {
+        "Q": "Vocês têm câmeras de segurança em estoque?",
+        "A": "Sim, temos 75 câmeras de segurança em estoque."
+      },
+      {
+        "Q": "Quanto custa uma impressora a laser?",
+        "A": "A impressora a laser custa R$ 1.250."
+      },
+      {
+        "Q": "Quantos carregadores portáteis vocês têm?",
+        "A": "Temos 150 carregadores portáteis disponíveis no estoque."
+      },
+      {
+        "Q": "O drone DJI está disponível?",
+        "A": "Sim, temos 12 unidades do drone DJI disponíveis."
+      },
+      {
+        "Q": "Qual é o preço de um relógio inteligente?",
+        "A": "O relógio inteligente custa R$ 900."
+      },
+      {
+        "Q": "Vocês têm cabos HDMI à venda?",
+        "A": "Sim, temos 300 cabos HDMI disponíveis no estoque."
+      },
+      {
+        "Q": "Quanto custa um projetor portátil?",
+        "A": "O projetor portátil custa R$ 1.600."
+      },
+      {
+        "Q": "Quantos headsets gamer vocês têm disponíveis?",
+        "A": "Atualmente, temos 40 headsets gamer em estoque."
+      },
+      {
+        "Q": "Tem câmeras GoPro à venda?",
+        "A": "Sim, temos 22 câmeras GoPro disponíveis."
+      },
+      {
+        "Q": "Qual é o preço de uma caixa de som JBL?",
+        "A": "A caixa de som JBL custa R$ 750."
+      },
+      {
+        "Q": "Quantos refrigeradores smart vocês têm?",
+        "A": "Temos 8 refrigeradores smart disponíveis."
+      },
+      {
+        "Q": "O smartwatch da Xiaomi está disponível?",
+        "A": "Sim, temos 35 smartwatches da Xiaomi em estoque."
+      },
+      {
+        "Q": "Quanto custa um Kindle?",
+        "A": "O Kindle está disponível por R$ 450."
+      },
+      {
+        "Q": "Vocês têm roteadores Wi-Fi 6?",
+        "A": "Sim, temos 60 roteadores Wi-Fi 6 disponíveis no estoque."
+      },
+        {
+          "Q": "Qual é o preço de uma TV 4K de 55 polegadas?",
+          "A": "A TV 4K de 55 polegadas custa R$ 3.200."
+        },
+        {
+          "Q": "Vocês têm monitores ultrawide em estoque?",
+          "A": "Sim, temos 18 monitores ultrawide disponíveis."
+        },
+        {
+          "Q": "Quanto custa uma máquina de lavar com Wi-Fi?",
+          "A": "A máquina de lavar com Wi-Fi custa R$ 3.800."
+        },
+        {
+          "Q": "Quantos notebooks gamer vocês têm?",
+          "A": "Atualmente, temos 25 notebooks gamer em estoque."
+        },
+        {
+          "Q": "O iPad Pro está disponível?",
+          "A": "Sim, temos 13 unidades do iPad Pro disponíveis."
+        },
+        {
+          "Q": "Qual é o preço de um fone de ouvido sem fio da Sony?",
+          "A": "O fone de ouvido sem fio da Sony custa R$ 1.200."
+        },
+        {
+          "Q": "Vocês têm tablets Android à venda?",
+          "A": "Sim, temos 40 tablets Android em estoque."
+        },
+        {
+          "Q": "Quanto custa um aspirador robô inteligente?",
+          "A": "O aspirador robô inteligente custa R$ 2.100."
+        },
+        {
+          "Q": "Quantos controles de Xbox vocês têm disponíveis?",
+          "A": "Temos 95 controles de Xbox em estoque."
+        },
+        {
+          "Q": "Vocês vendem smart TVs da Samsung?",
+          "A": "Sim, temos 28 smart TVs da Samsung disponíveis."
+        },
+        {
+          "Q": "Qual é o preço de uma câmera digital da Canon?",
+          "A": "A câmera digital da Canon custa R$ 4.500."
+        },
+        {
+          "Q": "Quantos consoles PS5 vocês têm?",
+          "A": "Temos 15 consoles PS5 disponíveis."
+        },
+        {
+          "Q": "Vocês têm ventiladores inteligentes?",
+          "A": "Sim, temos 23 ventiladores inteligentes disponíveis."
+        },
+        {
+          "Q": "Quanto custa um monitor 144Hz?",
+          "A": "O monitor 144Hz custa R$ 1.450."
+        },
+        {
+          "Q": "Vocês têm cartões de memória para câmeras?",
+          "A": "Sim, temos 85 cartões de memória para câmeras em estoque."
+        },
+          {
+            "Q": "Quanto custa uma caixa de som Bluetooth portátil?",
+            "A": "A caixa de som Bluetooth portátil custa R$ 350."
+          },
+          {
+            "Q": "Vocês têm carregadores rápidos para celular?",
+            "A": "Sim, temos 60 carregadores rápidos disponíveis."
+          },
+          {
+            "Q": "Qual é o preço de um smartwatch da Apple?",
+            "A": "O Apple Watch custa R$ 2.500."
+          },
+          {
+            "Q": "Quantos fones de ouvido JBL vocês têm em estoque?",
+            "A": "Temos 45 fones de ouvido JBL disponíveis."
+          },
+          {
+            "Q": "Vocês vendem câmeras de segurança para casa?",
+            "A": "Sim, temos 30 câmeras de segurança disponíveis."
+          },
+          {
+            "Q": "Quanto custa uma geladeira inteligente?",
+            "A": "A geladeira inteligente custa R$ 8.200."
+          },
+          {
+            "Q": "Vocês têm roteadores Wi-Fi 6?",
+            "A": "Sim, temos 40 roteadores Wi-Fi 6 disponíveis."
+          },
+          {
+            "Q": "Qual é o preço de uma cafeteira expresso automática?",
+            "A": "A cafeteira expresso automática custa R$ 1.700."
+          },
+          {
+            "Q": "Quantos drones vocês têm à venda?",
+            "A": "Temos 22 drones disponíveis."
+          },
+          {
+            "Q": "Vocês vendem teclados mecânicos para gamers?",
+            "A": "Sim, temos 65 teclados mecânicos em estoque."
+          },
+          {
+            "Q": "Quanto custa um projetor portátil?",
+            "A": "O projetor portátil custa R$ 2.100."
+          },
+          {
+            "Q": "Quantas câmeras GoPro vocês têm?",
+            "A": "Temos 12 câmeras GoPro em estoque."
+          },
+          {
+            "Q": "Vocês têm adaptadores HDMI para venda?",
+            "A": "Sim, temos 120 adaptadores HDMI disponíveis."
+          },
+          {
+            "Q": "Qual é o preço de um HD externo de 2TB?",
+            "A": "O HD externo de 2TB custa R$ 450."
+          },
+          {
+            "Q": "Vocês vendem leitores de e-books?",
+            "A": "Sim, temos 35 leitores de e-books disponíveis."
+          }
+
+        
+      ]
+      
+    
+    
+  
+  
