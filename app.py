@@ -2,6 +2,7 @@ import os
 import time
 from flask import Flask, request
 import requests
+from config import TELEGRAM_BOT_TOKEN
 from utils.whatsapp import process_incoming_message
 from iallama import OllamaQuestion, gerar_audio
 from testeRAG import OllamaQ
@@ -9,7 +10,6 @@ from testeRAG import OllamaQ
 app = Flask(__name__)
 
 # Configuração do Telegram
-TELEGRAM_BOT_TOKEN = "7846489078:AAHX22rvLwEGwn72Vwlz4bpMlBqrO6oQxs8"
 TELEGRAM_API_URL = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}"
 
 
